@@ -1,0 +1,10 @@
+---------------------------------------
+Open Source Manifesto
+Author: shilpi
+Date: 28 March 2026
+
+I believe open source represents Collaboration.
+Every day I rely on tools like Git that are built by communities.
+In the future, I would like to build Learning Plateform and share it freely with the world.
+Open collaboration empowers innovation and learning.
+---------------------------------------
